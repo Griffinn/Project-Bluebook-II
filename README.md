@@ -1,8 +1,8 @@
-# Project Zenith
+# Project-Bluebook-II 
 
 ### **Declassified. Documented. Discovered. 🛸**
 
-Project Zenith is a full-stack Node.js application designed to collect, store, and stream UAP sightings in real time. Built from scratch without frameworks, it demonstrates core backend engineering principles, event-driven architecture, and live data streaming using Server-Sent Events (SSE).
+Project-Bluebook II is a full-stack Node.js application designed to collect, store, and stream UAP sightings in real time. Built from scratch without frameworks, it demonstrates core backend engineering principles, event-driven architecture, and live data streaming using Server-Sent Events (SSE).
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
